@@ -4,7 +4,11 @@ title: "About"
 author_profile: false
 ---
 
-![Giving a talk at NTPU](/images/about_head_photo.jpg)
+<figure>
+  <img src="/images/about_header_photo.jpg" alt="Giving a talk at NTPU">
+  <figcaption>Photo taken during a talk at NTPU, March 2026</figcaption>
+</figure>
+
 
 Chen-Chou Lo (羅振洲) is an Assistant Professor in the Department of Electrical Engineering at Yuan Ze University, starting August 2026. He received his Ph.D. from KU Leuven in 2025, where his research focused on radar-camera fusion and depth estimation, supervised by Patrick Vandewalle.
 
