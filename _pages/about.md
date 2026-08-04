@@ -9,8 +9,9 @@ author_profile: false
   <figcaption>Photo taken during a talk at NTPU, March 2026</figcaption>
 </figure>
 
+---
 
-Chen-Chou Lo (羅振洲) is an Assistant Professor in the Department of Electrical Engineering at Yuan Ze University, starting August 2026. He received his Ph.D. from KU Leuven in 2025, where his research focused on radar-camera fusion and depth estimation, supervised by Patrick Vandewalle.
+**Chen-Chou Lo (羅振洲)** is an Assistant Professor in the Department of Electrical Engineering at Yuan Ze University, starting August 2026. He received his Ph.D. from KU Leuven in 2025, where his research focused on radar-camera fusion and depth estimation, supervised by Patrick Vandewalle. Following his Ph.D., he worked as a postdoctoral researcher at Academia Sinica before joining Yuan Ze University.
 
 Prior to his Ph.D., he was a research assistant at Academia Sinica, working on speech processing research, and before that a senior software engineer at ASUS, where he worked on SLAM and robotics systems.
 
