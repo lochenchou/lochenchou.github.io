@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 author_profile: true
+redirect_from:
+  - /
 ---
 
 Chen-Chou Lo (羅振洲) is an Assistant Professor in the Department of Electrical Engineering at Yuan Ze University, starting August 2026. He received his Ph.D. from KU Leuven in 2025, where his research focused on radar-camera fusion and depth estimation, supervised by Patrick Vandewalle.
