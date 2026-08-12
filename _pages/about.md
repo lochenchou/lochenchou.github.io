@@ -26,8 +26,9 @@ His research interests span computer vision, speech processing, and multimodal A
 
 ## Experience
 
-* Assistant Professor, Yuan Ze University, Dept. of EE,  *Aug. 2026 – present*
-* Postdoctoral Researcher, Academia Sinica, *Jan. 2026 – July 2026*
-* Ph.D. Researcher, KU Leuven, *Oct. 2019 – Sep. 2025*
-* Research Assistant, Academia Sinica, *June 2018 – Sep. 2019*
+* Assistant Professor, Dept. of EE, Yuan Ze University,  *Aug. 2026 – present*
+* Postdoctoral Researcher, IIS, Academia Sinica, *June 2026 – July 2026*
+* Research Assistant, CITI, Academia Sinica, *Jan. 2026 – May 2026*
+* Doctoral Student, KU Leuven, *Oct. 2019 – Sep. 2025*
+* Research Assistant, IIS, Academia Sinica, *June 2018 – Sep. 2019*
 * Senior Software Engineer, ASUS, *July 2015 – May 2018*
